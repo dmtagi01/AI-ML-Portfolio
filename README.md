@@ -9,21 +9,19 @@ Welcome to my portfolio! I am an aspiring AI and Machine Learning developer with
 ### 1. **Loan Prediction Model**
 - **Description**: A machine learning model that predicts whether a loan applicant is likely to default based on historical data.
 - **Tools Used**: Python, Pandas, Scikit-learn, Jupyter Notebook
-- **Link**: [Google Colab Notebook](https://colab.research.google.com/) *(replace with actual link if you have it)*
+- **Link**: [Google Colab Notebook](https://https://www.instagram.com/d.mtagi01?igsh=Mzd4c2hla2h0aGRk/)
 
 ---
 
 ### 2. **AI Chatbot**
 - **Description**: A basic rule-based chatbot that simulates simple human conversation, developed using Python and NLTK.
 - **Tools Used**: Python, NLTK
-- **Link**: *(Add link if hosted or code is available)*
 
 ---
 
 ### 3. **Image Classifier**
 - **Description**: Built a convolutional neural network (CNN) to classify images from the CIFAR-10 dataset.
 - **Tools Used**: TensorFlow, Keras, Python
-- **Link**: *(Add link if hosted or available on GitHub/Colab)*
 
 ---
 
@@ -36,7 +34,7 @@ I’m currently participating in tech programs to deepen my knowledge in AI and 
 ## 📬 Contact
 
 - **Email**: your.email@example.com  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://github.com/dmtagi01/AI-ML-Portfolio/edit/main/README.md)  
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
 ---
