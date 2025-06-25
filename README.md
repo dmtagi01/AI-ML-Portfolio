@@ -32,10 +32,10 @@ I’m currently participating in tech programs to deepen my knowledge in AI and 
 ---
 
 ## 📬 Contact
-
-- **Email**: your.email@example.com  
++2349074242284
+- **Email**: abubakardaudamusatagi@gmail.com  
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://github.com/dmtagi01/AI-ML-Portfolio/edit/main/README.md)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: [github.com/yourusername](https://github.com/dmtagi01)
 
 ---
 
